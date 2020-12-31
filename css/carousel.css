@@ -1,0 +1,38 @@
+body{
+  color: #5a5a5a;
+}
+.navbar{
+  background-color:white;
+}
+.carousel-item{
+  height: 20rem;
+  background-color:#8ad7c1;
+}
+.carousel{
+  margin-top:80px;
+}
+.carousel-item>img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 30%;
+  height: 20rem;
+}
+#review{
+  background-color:#8ad7c1;
+}
+.review-content{
+  padding:40px;
+}
+.review-desc{
+  border-radius: 10px;
+  background:#fcf8ec;
+  /* color:black; */
+  margin:10px;
+  padding:40px;
+  padding-bottom: 20px;
+}
+.card>img{
+  width: 100%;
+  height: 15rem;
+}
