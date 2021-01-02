@@ -11,6 +11,10 @@ body{
 .carousel{
   margin-top:80px;
 }
+.fa-sun
+{
+  color:yellow;
+}
 .carousel-item>img{
   position: absolute;
   top: 0;
